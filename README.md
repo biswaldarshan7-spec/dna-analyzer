@@ -15,10 +15,15 @@ A beginner bioinformatics project written in Python.
 
 ## Example
 
-Input:
-ATGCGATTA
+Input
 
-Output:
+```text
+ATGCGATTA
+```
+
+Output
+
+```text
 Length: 9
 
 A: 3
@@ -27,6 +32,7 @@ G: 2
 C: 2
 
 GC Content: 44.44%
+```
 
 ## Technologies Used
 
